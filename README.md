@@ -6,8 +6,7 @@ i simple music player animated UI
 
 <table>
 <tr>
-    <td valign="top"><img src="images/1.gif
-    " width="250" alt="Welcome Page"></td>
+    <td valign="top"><img src="images/1.gif" width="250" alt="main"></td>
     
   </tr>
 </table>
